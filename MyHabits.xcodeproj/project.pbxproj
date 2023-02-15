@@ -12,13 +12,13 @@
 		6A40B383298D67440059CC22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A40B382298D67440059CC22 /* AppDelegate.swift */; };
 		6A40B385298D67440059CC22 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A40B384298D67440059CC22 /* SceneDelegate.swift */; };
 		6A40B38C298D67450059CC22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A40B38B298D67450059CC22 /* Assets.xcassets */; };
+		6A4617E3299CDD5C00BCBFB2 /* SFProDisplay-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A4617E0299CDC3E00BCBFB2 /* SFProDisplay-Semibold.ttf */; };
+		6A4617E4299CDD5C00BCBFB2 /* SFProText-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A4617E1299CDC3E00BCBFB2 /* SFProText-Regular.ttf */; };
+		6A4617E5299CDD5C00BCBFB2 /* SFProText-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A4617E2299CDC3E00BCBFB2 /* SFProText-Semibold.ttf */; };
 		6A53C7E0298E97C00029953E /* HabitsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A53C7DF298E97C00029953E /* HabitsStore.swift */; };
 		6A53C7E2298E99240029953E /* HabitsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A53C7E1298E99240029953E /* HabitsViewController.swift */; };
 		6A53C7E4298E99470029953E /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A53C7E3298E99470029953E /* InfoViewController.swift */; };
 		6A80B9422994AFED009B9EFE /* HabitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A80B9412994AFED009B9EFE /* HabitViewController.swift */; };
-		6A80B9482997ACF6009B9EFE /* SFProText-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A80B9462997A468009B9EFE /* SFProText-Regular.ttf */; };
-		6A80B9492997ACF6009B9EFE /* SFProText-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A80B9442997A468009B9EFE /* SFProText-Semibold.ttf */; };
-		6A80B94A2997ACF6009B9EFE /* SFProDisplay-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A80B9452997A468009B9EFE /* SFProDisplay-Semibold.ttf */; };
 		6A80B94E2997B3EB009B9EFE /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A80B94D2997B3EB009B9EFE /* Helper.swift */; };
 		6A80B9522998C6FE009B9EFE /* ProgressCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A80B9512998C6FE009B9EFE /* ProgressCollectionViewCell.swift */; };
 		6A80B9542998D103009B9EFE /* HabitCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A80B9532998D103009B9EFE /* HabitCollectionViewCell.swift */; };
@@ -32,13 +32,13 @@
 		6A40B384298D67440059CC22 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6A40B38B298D67450059CC22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A40B390298D67450059CC22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A4617E0299CDC3E00BCBFB2 /* SFProDisplay-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-Semibold.ttf"; sourceTree = "<group>"; };
+		6A4617E1299CDC3E00BCBFB2 /* SFProText-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProText-Regular.ttf"; sourceTree = "<group>"; };
+		6A4617E2299CDC3E00BCBFB2 /* SFProText-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProText-Semibold.ttf"; sourceTree = "<group>"; };
 		6A53C7DF298E97C00029953E /* HabitsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitsStore.swift; sourceTree = "<group>"; };
 		6A53C7E1298E99240029953E /* HabitsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitsViewController.swift; sourceTree = "<group>"; };
 		6A53C7E3298E99470029953E /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 		6A80B9412994AFED009B9EFE /* HabitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitViewController.swift; sourceTree = "<group>"; };
-		6A80B9442997A468009B9EFE /* SFProText-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SFProText-Semibold.ttf"; path = "../../../../../../Downloads/SFProText-Semibold.ttf"; sourceTree = "<group>"; };
-		6A80B9452997A468009B9EFE /* SFProDisplay-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SFProDisplay-Semibold.ttf"; path = "../../../../../../Downloads/SFProDisplay-Semibold.ttf"; sourceTree = "<group>"; };
-		6A80B9462997A468009B9EFE /* SFProText-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SFProText-Regular.ttf"; path = "../../../../../../Downloads/SFProText-Regular.ttf"; sourceTree = "<group>"; };
 		6A80B94D2997B3EB009B9EFE /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		6A80B9512998C6FE009B9EFE /* ProgressCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressCollectionViewCell.swift; sourceTree = "<group>"; };
 		6A80B9532998D103009B9EFE /* HabitCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 		6A40B381298D67440059CC22 /* MyHabits */ = {
 			isa = PBXGroup;
 			children = (
-				6A80B9432997A441009B9EFE /* Fonts */,
+				6A4617DF299CDC1F00BCBFB2 /* Fonts */,
 				6A40B382298D67440059CC22 /* AppDelegate.swift */,
 				6A40B384298D67440059CC22 /* SceneDelegate.swift */,
 				6A80B9412994AFED009B9EFE /* HabitViewController.swift */,
@@ -92,12 +92,12 @@
 			path = MyHabits;
 			sourceTree = "<group>";
 		};
-		6A80B9432997A441009B9EFE /* Fonts */ = {
+		6A4617DF299CDC1F00BCBFB2 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				6A80B9452997A468009B9EFE /* SFProDisplay-Semibold.ttf */,
-				6A80B9462997A468009B9EFE /* SFProText-Regular.ttf */,
-				6A80B9442997A468009B9EFE /* SFProText-Semibold.ttf */,
+				6A4617E0299CDC3E00BCBFB2 /* SFProDisplay-Semibold.ttf */,
+				6A4617E1299CDC3E00BCBFB2 /* SFProText-Regular.ttf */,
+				6A4617E2299CDC3E00BCBFB2 /* SFProText-Semibold.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -161,9 +161,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A40B38C298D67450059CC22 /* Assets.xcassets in Resources */,
-				6A80B94A2997ACF6009B9EFE /* SFProDisplay-Semibold.ttf in Resources */,
-				6A80B9482997ACF6009B9EFE /* SFProText-Regular.ttf in Resources */,
-				6A80B9492997ACF6009B9EFE /* SFProText-Semibold.ttf in Resources */,
+				6A4617E5299CDD5C00BCBFB2 /* SFProText-Semibold.ttf in Resources */,
+				6A4617E4299CDD5C00BCBFB2 /* SFProText-Regular.ttf in Resources */,
+				6A4617E3299CDD5C00BCBFB2 /* SFProDisplay-Semibold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

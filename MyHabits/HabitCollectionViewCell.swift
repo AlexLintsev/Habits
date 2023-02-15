@@ -43,7 +43,7 @@ class HabitCollectionViewCell: UICollectionViewCell {
     private lazy var statusButton: UIButton = {
         let button = UIButton()
         button.translatesAutoresizingMaskIntoConstraints = false
-//        button.setImage(UIImage(named: "CheckMark"), for: .normal)
+        button.setImage(UIImage(named: "CheckMark"), for: .normal)
         button.layer.borderWidth = 2
         button.layer.cornerRadius = 20
         button.layer.masksToBounds = true
